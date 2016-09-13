@@ -14,7 +14,7 @@ npm install --save-dev react-test-context-provider
 ## Usage
 
 ```javascript
-var getContextProvider = require('react-test-context-provider')
+var getElementWithContext = require('react-test-context-provider')
 var contextObject = {color: 'blue'} // the context you want to provide to the children components
 var reactElement = getElementWithContext(contextObject, <ComponentThatNeedsContext />) // returns the react element as rendered with the given context
 ```
