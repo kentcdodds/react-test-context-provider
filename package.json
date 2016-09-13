@@ -1,0 +1,24 @@
+{
+  "name": "react-test-context-provider",
+  "version": "2.1.0",
+  "description": "A function that allows you to specify context to pass to a child component (intended for testing only)",
+  "main": "index.js",
+  "keywords": [
+    "react",
+    "testing",
+    "context"
+  ],
+  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">= 9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kentcdodds/react-test-context-provider.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kentcdodds/react-test-context-provider/issues"
+  },
+  "homepage": "https://github.com/kentcdodds/react-test-context-provider#readme"
+}
