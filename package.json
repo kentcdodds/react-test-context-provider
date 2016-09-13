@@ -1,6 +1,6 @@
 {
   "name": "react-test-context-provider",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "A function that allows you to specify context to pass to a child component (intended for testing only)",
   "main": "index.js",
   "keywords": [
